@@ -1,0 +1,15 @@
+/Users/hector/Documents/utr/game_dev/c_sharp_dev/practice1/bin/Debug/net6.0/practice1
+/Users/hector/Documents/utr/game_dev/c_sharp_dev/practice1/bin/Debug/net6.0/practice1.deps.json
+/Users/hector/Documents/utr/game_dev/c_sharp_dev/practice1/bin/Debug/net6.0/practice1.runtimeconfig.json
+/Users/hector/Documents/utr/game_dev/c_sharp_dev/practice1/bin/Debug/net6.0/practice1.dll
+/Users/hector/Documents/utr/game_dev/c_sharp_dev/practice1/bin/Debug/net6.0/ref/practice1.dll
+/Users/hector/Documents/utr/game_dev/c_sharp_dev/practice1/bin/Debug/net6.0/practice1.pdb
+/Users/hector/Documents/utr/game_dev/c_sharp_dev/practice1/obj/Debug/net6.0/practice1.csproj.AssemblyReference.cache
+/Users/hector/Documents/utr/game_dev/c_sharp_dev/practice1/obj/Debug/net6.0/practice1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hector/Documents/utr/game_dev/c_sharp_dev/practice1/obj/Debug/net6.0/practice1.AssemblyInfoInputs.cache
+/Users/hector/Documents/utr/game_dev/c_sharp_dev/practice1/obj/Debug/net6.0/practice1.AssemblyInfo.cs
+/Users/hector/Documents/utr/game_dev/c_sharp_dev/practice1/obj/Debug/net6.0/practice1.csproj.CoreCompileInputs.cache
+/Users/hector/Documents/utr/game_dev/c_sharp_dev/practice1/obj/Debug/net6.0/practice1.dll
+/Users/hector/Documents/utr/game_dev/c_sharp_dev/practice1/obj/Debug/net6.0/ref/practice1.dll
+/Users/hector/Documents/utr/game_dev/c_sharp_dev/practice1/obj/Debug/net6.0/practice1.pdb
+/Users/hector/Documents/utr/game_dev/c_sharp_dev/practice1/obj/Debug/net6.0/practice1.genruntimeconfig.cache
